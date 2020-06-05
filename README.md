@@ -9,7 +9,11 @@ InfoVision App Uses Inception v3 ML Model to Recognise Objects and Fetches Infor
 
 ## Screenshots
 
+<img src="https://raw.githubusercontent.com/ysehgal147/infovision/master/IMG_7098.PNG" width="300"> <img src="https://raw.githubusercontent.com/ysehgal147/infovision/master/IMG_7096.PNG" width="300"> <img src="https://raw.githubusercontent.com/ysehgal147/infovision/master/IMG_7097.PNG" width="300">
 
+## Expected Errors
+
+Blurry Photographs or Photographs with Multiple Objects might lead to Wrong Detection.
 
 ## Video Link
 
